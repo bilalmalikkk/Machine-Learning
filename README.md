@@ -1,4 +1,4 @@
-# Machine Learning Repositor
+# Machine Learning Repository
 
 Welcome to the Machine Learning Repository! This repository is a collection of various machine learning projects, datasets, and resources to help you learn, experiment, and develop your skills in the field of machine learning and artificial intelligence. Whether you're a beginner looking to get started or an experienced practitioner seeking inspiration, this repository has something for everyone.
 
